@@ -1,0 +1,21 @@
+Reference,Value,Datasheet,Package,Qty
+"C1,C2",47uF,~,Electrolytic Capacitor,2
+"C3,C4,C5,C6",0.1uF,~,Ceramic Disc Capacitor,4
+"C7,C8",1uF,~,Box Style Film Capacitor,2
+"D1,D2",1N5819,http://www.vishay.com/docs/88525/1n5817.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,2
+"D3,D4,D5,D6,D7",1N4148,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,5
+D8,LED,~,LED 5.0mm,1
+E1,Conn_02x05_Pin,~,Pins_2x05_2.54mm_TH_EurorackPower_Shrouded,1
+J1,Gate,~,Jack_6.35mm,1
+J2,Out,~,Jack_6.35mm,1
+"J3,J4",Conn_01x06,~,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical,2
+R1,10K,~,Metal Film 1/4 Resistor,1
+"R2,R3",10,~,Metal Film 1/4 Resistor,2
+"R4,R5,R7",100K,~,Metal Film 1/4 Resistor,3
+R6,47K,~,Metal Film 1/4 Resistor,1
+R8,1K,~,Metal Film 1/4 Resistor,1
+R9,LEDR,~,Metal Film 1/4 Resistor,1
+U1,TL074,http://www.ti.com/lit/ds/symlink/tl071.pdf,DIP-14_W7.62mm,1
+VR1,1M Attack,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
+VR2,1M D/R,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
+VR3,100K Sustain,~,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,1
